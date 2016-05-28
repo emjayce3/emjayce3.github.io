@@ -62,6 +62,38 @@ $(function(){
     $(".sn1").hide();
   });
 
+   $(".sn2-1").click(function(){
+    $(".sn2").show();
+  });
+  
+  $(".sn2-1").click(function(){
+    $(".sn2-1").hide();
+  });
+
+  $(".sn2").click(function(){
+    $(".sn2-1").show();
+  });
+  
+  $(".sn2").click(function(){
+    $(".sn2").hide();
+  });
+
+   $(".sn3-1").click(function(){
+    $(".sn3").show();
+  });
+  
+  $(".sn3-1").click(function(){
+    $(".sn3-1").hide();
+  });
+
+  $(".sn3").click(function(){
+    $(".sn3-1").show();
+  });
+  
+  $(".sn3").click(function(){
+    $(".sn3").hide();
+  });
+
 
 
 
